@@ -2,39 +2,61 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+#LUMINERE 🎯
 
-## Basic Details
+Personalized Cosmetic Safety scanner 
 
-### Team Name: [Name]
+### Team Name: GHEEFIMONI
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+ Ifrah  Naseer MACE
+Geethika Ranjith MACE
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+it is a personalized skincare intelligence platform designed to help users make scientifically informed cosmetic decisions.
+Most people choose skincare products based on trends, advertisements, or trial-and-error. This often leads to skin barrier damage, irritation, acne breakouts, and wasted money.
+DermaSense AI eliminates guesswork by analyzing
+Skin type
+Ingredient compatibility
+Product combinations
+User feedback
 
 ### The Problem statement
-[What problem are you solving?]
+Users lack knowledge about skincare formulations.
+Ingredient lists are complex and confusing.
+Mixing active ingredients can cause irritation or long-term skin damage.
+There is no simple way to check compatibility between two products
 
 ### The Solution
-[How are you solving it?]
+skin Type Classification
+✔ Ingredient Risk Analysis
+✔ Formula Combination Checker
+✔ Personalized Product Recommendations
+✔ Adaptive Feedback Learning
 
 ---
 
 ## Technical Details
 
-### Technologies/Components Used
+### Technologies/Components Used: 
+HTML
+CSS
+JavaScript
+Backend (if applicable):
+Python 
+Ingredient database
+Risk scoring logic
+AI Logic:
+Rule-based risk engine
+Skin classification algorithm
+Ingredient compatibility matrix
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used JavaScript, Python
+- Tools used: VS Code, Git
 
 **For Hardware:**
 - Main components: [List main components]
@@ -44,16 +66,14 @@
 ---
 
 ## Features
-
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
-
+1. Personalized Skin Type Detection
+2 ngredient Intelligence Analysis
+3. formula Combination Checker
+4. *Adaptive Recommendation System
 ---
 
-## Implementation
+## Implementation 
+Authentication → Skin Profile Database → Ingredient Risk & Interaction Engine → AI Explanation & Chatbot → Personalized Product Recommendation System.
 
 ### For Software:
 
@@ -82,27 +102,22 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
+![SIGN IN OPTION](https://github.com/user-attachments/assets/5877d2b7-3520-4101-9800-42cfeb4512c3)
+![CREATING NEW ACCOUNT](https://github.com/user-attachments/assets/1ad8249b-b737-4af2-8dce-ccd92d627864)
+![SELECTION COLLECTING DATA](https://github.com/user-attachments/assets/67b812c7-785e-4ec1-9632-bd9a9f369215)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 #### Diagrams
 
 **System Architecture:**
+![WhatsApp Image 2026-02-28 at 8 37 05 AM](https://github.com/user-attachments/assets/5a8f5579-46da-46ea-865a-e7c415f437ca)
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
+![WhatsApp Image 2026-02-28 at 8 55 44 AM](https://github.com/user-attachments/assets/907c2e35-c3e2-4b63-91af-6585cb1aa1e1)
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+
 
 ---
 
