@@ -2,60 +2,82 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# LUMIERE   🎯
 
 ## Basic Details
-
-### Team Name: [Name]
+ personalized skin care ingredients safety scanner
+### Team Name: Gheefimoni
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Ifrah Naseer - MACE
+- Member 2: Geethika Ranjith - MACE
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+LUMIERE  is a personalized skincare intelligence platform designed to help users make scientifically informed cosmetic decisions.
+Most people choose skincare products based on trends, advertisements, or trial-and-error. This often leads to skin barrier damage, irritation, acne breakouts, and wasted money.
+DermaSense AI eliminates guesswork by analyzing:
+Skin type
+Ingredient compatibility
+Product combinations
+User feedback.
 
 ### The Problem statement
-[What problem are you solving?]
+
+Users lack knowledge about skincare formulations.
+Ingredient lists are complex and confusing.
+Mixing active ingredients can cause irritation or long-term skin damage.
+There is no simple way to check compatibility between two products.
 
 ### The Solution
-[How are you solving it?]
+✔ Ingredient Risk Analysis
+✔ Formula Combination Checker
+✔ Personalized Product Recommendations
+✔ Adaptive Feedback Learning
 
 ---
 
 ## Technical Details
+Frontend: HTML, CSS ,JavaScript
+Backend: Python,Fast API
+AI Logic:
+Rule-based risk engine
+Skin classification algorithm
+Ingredient compatibility matrix
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used:  JavaScript, Python,HTML
+- Tools used: VS Code, Git, Docker
 
 **For Hardware:**
 - Main components: [List main components]
 - Specifications: [Technical specifications]
 - Tools required: [List tools needed]
 
----
-
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
-
----
+List the key featur:
+Ingredient Intelligence Analysises of your project
+-Personalized Skin Type Detection
+-Formula Combination Checker
+-Formula Combination Checker
 
 ## Implementation
+1. Users sign up or log in, then complete a personalized skin assessment (skin type, acne status, hormonal condition, climate, age, sensitivity, etc.), which is securely stored and can be updated anytime.
+2. When they paste product ingredients, the system analyzes them using a Personalized Risk Engine and Ingredient Interaction Checker to detect red flags specific to their skin profile.
+3. An AI Explanation Layer and chatbot provide clear, science-based guidance tailored to the user’s individual concerns.
+4. Based on analysis and user feedback, the platform recommends the most suitable skincare products and continuously improves its suggestions.
+![SIGN IN OPTION](https://github.com/user-attachments/assets/1030abb5-7b79-45f1-b16c-484f219e002a)
+![CREATING NEW ACCOUNT](https://github.com/user-attachments/assets/71d85614-1e96-4ff6-8415-108a1f463191)
+![SIGN IN OPTION](https://github.com/user-attachments/assets/93d7b2fd-6029-485f-afd7-81e2ce9e2579)
+
 
 ### For Software:
+Authentication → Skin Profile Database → Ingredient Risk & Interaction Engine → AI Explanation & Chatbot → Personalized Product Recommendation System.
 
 #### Installation
 ```bash
@@ -79,18 +101,10 @@ List the key features of your project:
 
 ## Project Documentation
 
+
 ### For Software:
 
 #### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 #### Diagrams
 
